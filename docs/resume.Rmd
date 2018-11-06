@@ -1,0 +1,83 @@
+---
+title: ""
+author: "Nathan Mietkiewicz, Ph. D."
+email: Nathan.Mietkiewicz@Colorado.edu
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/Dropbox/Professional/portfolio/cv/docs/svm-latex-cv.tex
+  html_document:
+    df_print: paged
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+geometry: margin=0.75in
+github: NateMietk
+jobtitle: Postdoctoral Reserach Fellow, Earth Lab
+linkcolor: black
+fontawesome: yes
+phone: 508 797 2940
+address: 'University of Colorado · Boulder · 4001 Discovery Dr. '
+urlcolor: black
+web: nathanmietkiewicz.com
+---
+I am a geospatial scientist and ecologist seeking a research position in a dynamic and broad-thinking lab that allows me to pursue high-caliber science relevant to pressing human-environmental issues. My current research aims to examine how global environmental change, including changed climate and fire cycles, alters ecosystem function and human vulnerability.  I work at multiple scales, across disciplines, and with an international community of scientists. 
+
+# Education
+*Clark University*, **Ph.D**. Geography \hfill 2016 \
+*Clark University*, **M.A.**, Geography, \hfill 2015 \
+*Clark University*, **M.S.**, GIS for Development and Environment, \hfill 2013 \
+*University of Maine, Orono, ME*, **B.S.**, Earth Science, \hfill 2009
+
+# Current Employment
+**Postdoctoral Research Fellow** \hfill 2016--present
+
+*Earth Lab and the Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder*
+
+Leading cutting edge research in wildfire ecology, with particular focus on understanding the consequences of human-started wildfire in and around the wildland-urban interface (WUI). Some of my daily tasks include:
+
+- -Deploying geospatial, reproducible workflows in a salable, cloud-compute environments via Amazon Web Services (AWS) via Docker Hub and GitHub to build stable, collaborative work environments across platforms
+- -Writing clean, efficient code to download, process, and analyze big geospatial data ranging, but not limited to, satellite imagery, satellite derived products, governmental records, and climate time-series at local to national scales to answer landscape to continental scale questions
+- -Building out and optimizing statistical models using a variety of techniques, including generalized linear mixed models, random forests, supervised and unsupervised classifications, neural networks, and other machine learning algorithms.
+- -Mentoring/managing graduate level interns and research assistants.
+
+**Research Assistant** \hfill 2013-2016
+
+*Graduate School of Geography, Clark University, Worcester, MA*
+
+
+
+
+# Selected peer-reviewed Publications 
+
+**N. Mietkiewicz**, J. K. Balch, T. Schoennagel, S. Leyk, L. St. Denis, B. Bradley. (submitted) *Consequences of human-ignited wildfires in the US: from the Wildland-Urban Interface to wildlands*. Nature Sustainability.
+
+Balch, J. K., T. Schoennagel, A. Williams, J. Abatzoglou, M. Cattau, **N. Mietkiewicz**, and L. St. Denis. 2018. *Switching on the Big Burn of 2017*. Fire 1.
+
+**Mietkiewicz, N.**, D. Kulakowski, and T. T. Veblen 2018. *Pre‐outbreak forest conditions mediate the effects of spruce beetle outbreaks on fuels in subalpine forests of Colorado*. Ecological Applications 28:457-472.
+
+**Mietkiewicz, N.**, D. Kulakowski, D. Rogan, and P. Bebi. 2017. *Long-term change in sub-alpine forest cover, tree line and species composition in the Swiss Alps*. Journal of Vegetation Science. 28:951-964. DOI: 10.1111/jvs.12561
+
+Schoennagel, T., J. K. Balch, H. Brenkert-Smith, P. E. Dennison, B. J. Harvey, M. A. Krawchuk, **N. Mietkiewicz**, P. Morgan, M. A. Moritz, R. Rasker, M. G. Turner, and C. Whitlock. 2017. *Adapt to more wildfire in western North American forests as climate changes*. Proceedings of the National Academy of Sciences. 114:4582-4590.
+
+**Mietkiewicz, N.** and D. Kulakowski. 2016. *Relative importance of climate and mountain pine beetle outbreaks on the occurrence of large wildfires in the western US*. Ecological Applications:10.1002/eap.1400
+
+# Selected outreach, Synergistic Activities, and Professional Development
+
+- 2017 **Professional presentation** at the Fire Prediction Across Scales Conference, Columbia University, New York City, NY, USA entitled *Drivers of historic and future wildfire occurrence across the United States: the relative contribution of human ignitions vs climate to fire size and probability*.
+- 2017 **Professional presentation** at the Ecological Society of America Portland, OR, USA entitled *Human-ignited fires at the wildland-urban interface: consequences and costs*.
+- 2017 **Invited Speaker** in an undergraduate class, Introduction to Physical Geography, University of Colorado, Boulder, CO.
+- 2017 **Invited Speaker** at the Wildfire Information Development Workshop, Boulder, CO, USA. Entitled: Human-ignited fires at the wildland-urban interface: case study for using ICS-209s.
+- 2017 **Invited Speaker** at the Earth Science & Observation Center Colloquium, University of Colorado, Boulder, CO. Entitled: Earth Lab: Accelerating discovery with advanced earth analytics.
+- 2017 **Participant** at the Rocky Mountain Advanced Computing Consortium 2017, University of Colorado, Boulder, CO.
+- 2017 **Participant** at the NASA Wildland Fire Applications 2017 Team Meeting, University of Colorado, Boulder, CO.
+
+# Technology Proficiencies
+
+**Applications**: RStudio, Jupyter Notebooks, Amazon Web Services (S3, EC2), ArcGIS 9.3-10.6x, QGis, IDRISI/Terrset, Adobe CS6 Illustrator, 
+
+**Programming**: R (expert), Python (general understanding), RMarkdown, Docker, GitHub, UNIX Shell Programing (general understanding)
+
+# References
+
+Available upon request
