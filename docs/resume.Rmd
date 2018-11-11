@@ -24,21 +24,21 @@ urlcolor: black
 # Professional Summary
 I am a geospatial scientist and ecologist seeking a research position in a dynamic and broad-thinking lab that allows me to pursue high-caliber science relevant to pressing human-environmental issues. My current research aims to examine how global environmental change, including changed climate and fire cycles, alters ecosystem function and human vulnerability. Specifically, I lead cutting-edge research in wildfire ecology, with particular focus on quantifying, modeling, and predicting the consequences of human-started wildfires to the vulnerability of communities throughout the United States. I work at multiple scales, across disciplines, and with an international community of scientists. 
 
-# Academic Background
-*Clark University*, **Ph.D**. Geography \hfill 2016 \
-*Clark University*, **M.A.**, Geography, \hfill 2015 \
-*Clark University*, **M.S.**, GIS for Development and Environment, \hfill 2013 \
-*University of Maine, Orono, ME*, **B.S.**, Earth Science, \hfill 2009
+# Language Competencies and Technical Skills
+
+**Applications**: RStudio, Jupyter Notebooks, Amazon Web Services (S3, EC2), ArcGIS 9.3-10.6x, QGis, IDRISI/Terrset, Adobe CS6 Illustrator, 
+
+**Programming**: R (expert), Python (general understanding), R Markdown, Docker, GitHub, UNIX Shell Programming (general understanding)
 
 # Recent Professional Background
 **Postdoctoral Research Fellow** \hfill 2016--present
 
 *Earth Lab and the Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder*
 
-- -Deploying geospatial, reproducible workflows in a salable, cloud-compute environments via Amazon Web Services (AWS) via Docker Hub and GitHub to build stable, collaborative work environments across platforms
-- -Writing clean, efficient, reproducible code to analyze big geospatial data
-- -Building out and optimizing statistical models using a variety of techniques, with focus on machine learning algorithms.
-- -Mentoring/managing undergraduate and graduate level interns and research assistants.
+- -Deployed geospatial, reproducible workflows in a salable, cloud-compute environment via Amazon Web Services (AWS) leveraging Docker and GitHub to build stable, collaborative work environments across platforms
+- -Wrote clean, efficient, reproducible code to analyze big geospatial data
+- -Built out and optimizing statistical models using a variety of techniques, with focus on machine learning algorithms.
+- -Mentored/managed undergraduate and graduate level interns and research assistants.
 - -Authored and co-authored 7 peer-review publications 
 - -Co-authored over $5 million in research grant proposals
 
@@ -66,6 +66,12 @@ I am a geospatial scientist and ecologist seeking a research position in a dynam
 - -Collected over 2,000 tree cores, 1,000 seedling/sampling samples, and data ranging over 3 projects, resulting in 4 peer-reviewed publications and my dissertation.
 - -Managed the Forest Ecology Lab, where duties included maintaining, ordering, inventorying, and supporting both computer and field equipment for the research and classroom laboratories.  
 
+# Academic Background
+*Clark University, Worcester, MA*, **Ph.D**. Geography \hfill 2016 \
+*Clark University, Worcester, MA*, **M.A.**, Geography, \hfill 2015 \
+*Clark University, Worcester, MA*, **M.S.**, GIS for Development and Environment, \hfill 2013 \
+*University of Maine, Orono, ME*, **B.S.**, Earth Science, \hfill 2009
+
 # Selected peer-reviewed Publications 
 
 Balch, J. K., T. Schoennagel, A. Williams, J. Abatzoglou, M. Cattau, **N. Mietkiewicz**, and L. St. Denis. 2018. *Switching on the Big Burn of 2017*. Fire 1.
@@ -77,9 +83,3 @@ Balch, J. K., T. Schoennagel, A. Williams, J. Abatzoglou, M. Cattau, **N. Mietki
 Schoennagel, T., J. K. Balch, H. Brenkert-Smith, P. E. Dennison, B. J. Harvey, M. A. Krawchuk, **N. Mietkiewicz**, P. Morgan, M. A. Moritz, R. Rasker, M. G. Turner, and C. Whitlock. 2017. *Adapt to more wildfire in western North American forests as climate changes*. Proceedings of the National Academy of Sciences. 114:4582-4590.
 
 **Mietkiewicz, N.** and D. Kulakowski. 2016. *Relative importance of climate and mountain pine beetle outbreaks on the occurrence of large wildfires in the western US*. Ecological Applications:10.1002/eap.1400
-
-# Language Competencies and Computer Skills
-
-**Applications**: RStudio, Jupyter Notebooks, Amazon Web Services (S3, EC2), ArcGIS 9.3-10.6x, QGis, IDRISI/Terrset, Adobe CS6 Illustrator, 
-
-**Programming**: R (expert), Python (general understanding), R Markdown, Docker, GitHub, UNIX Shell Programming (general understanding)
