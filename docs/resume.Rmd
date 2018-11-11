@@ -26,9 +26,9 @@ I am a geospatial scientist and ecologist seeking a research position in a dynam
 
 # Language Competencies and Technical Skills
 
-**Applications**: RStudio, Jupyter Notebooks, Amazon Web Services (S3, EC2), ArcGIS 9.3-10.6x, QGis, IDRISI/Terrset, Adobe CS6 Illustrator, 
+**Applications**: RStudio, Jupyter Notebooks, Amazon Web Services (S3, EC2), ArcGIS Platform, QGis, IDRISI/Terrset, Adobe CS6 Illustrator, 
 
-**Programming**: R (expert), Python (general understanding), R Markdown, Docker, GitHub, UNIX Shell Programming (general understanding)
+**Programming**: R (expert), Python (general understanding), R Markdown, Docker, GitHub, UNIX Shell Programming
 
 # Recent Professional Background
 **Postdoctoral Research Fellow** \hfill 2016--present
