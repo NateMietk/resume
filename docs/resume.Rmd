@@ -5,7 +5,7 @@ email: Nathan.Mietkiewicz@Colorado.edu
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Dropbox/Professional/portfolio/cv/docs/svm-latex-cv.tex
+    template: ~/Dropbox/Professional/portfolio/resume/docs/svm-latex-cv.tex
 geometry: margin=1in
 
 github: NateMietk
