@@ -2,23 +2,27 @@
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Dropbox/Professional/portfolio/svm-r-markdown-templates/svm-latex-cv.tex
+    template: ~/Dropbox/Professional/portfolio/svm-r-markdown-templates/svm-latex-resume.tex
 geometry: margin=1in
   
 title: "CV"
 author: "Nathan Mietkiewicz, Ph. D."
 email: Mietkiewicz@battelleecology.org
 
-github: NateMietk
 jobtitle: Environmental Data Scientist
 fontawesome: yes
 phone: 508 797 2940
 address: 'National Ecological Observation Network/ Battelle · Boulder · CO '
-web: nathanmietkiewicz.com
+web: 'nathanmietkiewicz.com'
+github: 'NateMietk'
+location: 'Boulder, CO'
+twitter: "@natemietk"
+linkedin: "nathan-mietkiewicz-54506a158"
+
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
-fontsize: 11pt
+fontsize: 10pt
 linkcolor: blue
 urlcolor: blue
 ---
@@ -89,6 +93,8 @@ I am a geospatial scientist and ecologist seeking a research position in a dynam
 
 **Mietkiewicz, N.**, J. K. Balch, T. Schoennagel, S. Leyk, L. St. Denis, B. Bradley. (Accepted) *In the line of fire: Consequences of human-ignited wildfires to homes in the U.S. (1992-2015)*. Fire.
 
+Leyk, S., Uhl, J.H., Connor, D.S., Braswell, A.E., **Mietkiewicz, N.**, Balch, J.K., Gutmann, M. (2020). *Two centuries of settlement and urban development in the United States.* Science Advances. 6(23), doi:10.1126/sciadv.aba2937.
+
 **Mietkiewicz, N.**, D. Kulakowski, and T. T. Veblen 2018. *Pre‐outbreak forest conditions mediate the effects of spruce beetle outbreaks on fuels in subalpine forests of Colorado*. Ecological Applications 28:457-472.
 
 **Mietkiewicz, N.**, D. Kulakowski, D. Rogan, and P. Bebi. 2017. *Long-term change in sub-alpine forest cover, tree line and species composition in the Swiss Alps*. Journal of Vegetation Science. 28:951-964. DOI: 10.1111/jvs.12561.
@@ -96,17 +102,3 @@ I am a geospatial scientist and ecologist seeking a research position in a dynam
 Schoennagel, T., J. K. Balch, H. Brenkert-Smith, P. E. Dennison, B. J. Harvey, M. A. Krawchuk, **N. Mietkiewicz**, P. Morgan, M. A. Moritz, R. Rasker, M. G. Turner, and C. Whitlock. 2017. *Adapt to more wildfire in western North American forests as climate changes*. Proceedings of the National Academy of Sciences. 114:4582-4590.
 
 **Mietkiewicz, N.** and D. Kulakowski. 2016. *Relative importance of climate and mountain pine beetle outbreaks on the occurrence of large wildfires in the western US*. Ecological Applications:10.1002/eap.1400.
-
-# Selected Recent Outreach, Synergistic Activities, and Professional Development 
-
-2020 **Participant** at the Ecological Forecasting Initiative: Coordinating the NEON-enabled forecasting challenge workshop, virtual.
-
-2019 **Invited Participant** at the USDA Forest Service Stakeholder Workshop: Urban and Wildland-Urban Interface Forests Under Changing Conditions, Denver, CO.
-
-2019 **Invited Participant** at the USGS North Central Climate Adaptation Science Center Open House, Boulder, CO.
-
-2019 **Invited Speaker** at a Global WUI Working Group at the International Association of Wildland Fire 6th Fire Behavior and Fuels Conference, Marseille, France.
-
-2019 **Participant** at the NSF INCLUDES Diversity and Inclusion workshop, Boulder, CO.
-
-2017 **Professional Presentation** at the Fire Prediction Across Scales Conference, Columbia University, New York City, NY, USA.
