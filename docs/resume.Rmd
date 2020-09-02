@@ -40,48 +40,48 @@ I am a geospatial scientist and ecologist seeking a research position in a dynam
 
 *National Ecological Observation Network, Battelle, Boulder, CO*
 
-- -Developed reproducible, automated workflows to generate monthly metric reports using both internal (i.e., HA Proxy logs) and external API (i.e., Google Analytics, auth0, Lime Survey) data tracking services.
-- -Developed R code to determine data availability for for over 200 data products across 81 different sites in the observatory.
-- -Wrote enhancements to the [neonUtilities R package](https://github.com/NEONScience/NEON-utilities)
-- -Built a number of Shiny Applications for internal use 
-- -A member of multiple internal working groups, such as Public Code Working Group, Science Code Working Group, and the Power Bi Working Group
-- -Co-chaired on the Data Standards Technical External Working Group
+- Developed reproducible, automated workflows to generate monthly metric reports using both internal (i.e., HA Proxy logs) and external API (i.e., Google Analytics, auth0, Lime Survey) data tracking services.
+- Developed R code to determine data availability for for over 200 data products across 81 different sites in the observatory.
+- Wrote enhancements to the [neonUtilities R package](https://github.com/NEONScience/NEON-utilities)
+- Built a number of Shiny Applications for internal use 
+- A member of multiple internal working groups, such as Public Code Working Group, Science Code Working Group, and the Power Bi Working Group
+- Co-chaired on the Data Standards Technical External Working Group
 
 **Postdoctoral Research Associate** \hfill Aug 2016-- Sept 2019
 
 *Earth Lab and the Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder*
 
-- -Deployed geospatial, reproducible workflows in a salable, cloud-compute environment via Amazon Web Services (AWS) leveraging Docker and GitHub to build stable, collaborative work environments across platforms.
-- -Wrote clean, efficient, reproducible R code to analyze big geospatial data.
-- -Built out and optimizing statistical models using a variety of techniques, with focus on machine learning algorithms.
-- -Mentored/managed undergraduate and graduate level interns and research assistants.
-- -Authored and co-authored 6 peer-review publications with 3 more in review and 10 in progress.
-- -Authored and Co-authored over $15 million in research grant proposals.
+- Deployed geospatial, reproducible workflows in a salable, cloud-compute environment via Amazon Web Services (AWS) leveraging Docker and GitHub to build stable, collaborative work environments across platforms.
+- Wrote clean, efficient, reproducible R code to analyze big geospatial data.
+- Built out and optimizing statistical models using a variety of techniques, with focus on machine learning algorithms.
+- Mentored/managed undergraduate and graduate level interns and research assistants.
+- Authored and co-authored 6 peer-review publications with 3 more in review and 10 in progress.
+- Authored and Co-authored over $15 million in research grant proposals.
 
 **Research Assistant** \hfill 2013-2016
 
 *Graduate School of Geography, Clark University, Worcester, MA*
 
-- -Developed and led a successful field campaign located in the backcountry of the Colorado Rockies
-- -Managed a team of 8 undergraduate and graduate students in remote, mountainous areas for 18 weeks over the course of 2 summers
-- -Collected over 2,000 tree cores, 1,000 seedling/sampling samples, and data ranging over 3 projects, resulting in 4 peer-reviewed publications and my dissertation
-- -Synthesized field data that was fed into large wildfire behavior prediction models under current and 3 future climate scenarios across the Southern Rocky Mountains.
-- -Managed the Forest Ecology Lab, where duties included maintaining, ordering, inventorying, and supporting both computer and field equipment for the research and classroom laboratories
+- Developed and led a successful field campaign located in the backcountry of the Colorado Rockies
+- Managed a team of 8 undergraduate and graduate students in remote, mountainous areas for 18 weeks over the course of 2 summers
+- Collected over 2,000 tree cores, 1,000 seedling/sampling samples, and data ranging over 3 projects, resulting in 4 peer-reviewed publications and my dissertation
+- Synthesized field data that was fed into large wildfire behavior prediction models under current and 3 future climate scenarios across the Southern Rocky Mountains.
+- Managed the Forest Ecology Lab, where duties included maintaining, ordering, inventorying, and supporting both computer and field equipment for the research and classroom laboratories
 
 **Adjunct Faculty** \hfill 2012-2016
 
 *Graduate School of Geography, Clark University, Worcester, MA*
 
-- -Taught the undergraduate Forest Ecology seminar
-- -Developed all course materials, syllabi, laboratories, and testing materials
-- -Overall effectiveness based on student evaluations was 92%
+- Taught the undergraduate Forest Ecology seminar
+- Developed all course materials, syllabi, laboratories, and testing materials
+- Overall effectiveness based on student evaluations was 92%
 
 **Teaching Assistant** \hfill 2012-2016
 
 *Graduate School of Geography, Clark University, Worcester, MA*
 
-- -Taught technical laboratories for graduate and undergraduate class, including Advanced Topics in GIS: Raster GIS (3 semesters), Introduction to Remote Sensing (1 semester), Forest Ecology (1 semester), and Earth System Science (1 semester)
-- -Overall effectiveness based on student evaluations ranging from 92%-99%, with an average evaluation of 96% over 6 semesters
+- Taught technical laboratories for graduate and undergraduate class, including Advanced Topics in GIS: Raster GIS (3 semesters), Introduction to Remote Sensing (1 semester), Forest Ecology (1 semester), and Earth System Science (1 semester)
+- Overall effectiveness based on student evaluations ranging from 92%-99%, with an average evaluation of 96% over 6 semesters
 
 # Academic Background
 *Clark University, Worcester, MA*, **Ph.D**. Geography \hfill 2016 \
