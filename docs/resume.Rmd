@@ -1,25 +1,26 @@
 ---
-title: ""
-author: "Nathan Mietkiewicz, Ph. D."
-email: Nathan.Mietkiewicz@Colorado.edu
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Dropbox/Professional/portfolio/resume/docs/svm-latex-cv.tex
+    template: ~/Dropbox/Professional/portfolio/svm-r-markdown-templates/svm-latex-cv.tex
 geometry: margin=1in
+  
+title: "CV"
+author: "Nathan Mietkiewicz, Ph. D."
+email: Mietkiewicz@battelleecology.org
 
 github: NateMietk
-jobtitle: Postdoctoral Research Fellow, Earth Lab and CIRES
+jobtitle: Environmental Data Scientist
 fontawesome: yes
 phone: 508 797 2940
-address: 'University of Colorado · Boulder · 4001 Discovery Dr. '
+address: 'National Ecological Observation Network/ Battelle · Boulder · CO '
 web: nathanmietkiewicz.com
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
-fontsize: 10pt
-linkcolor: black
-urlcolor: black
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
 ---
 # Professional Summary
 I am a geospatial scientist and ecologist seeking a research position in a dynamic and broad-thinking lab that allows me to pursue high-caliber science relevant to pressing human-environmental issues. My current research examines how global environmental change, including changed climate and fire cycles, alters ecosystem function and human vulnerability. Specifically, I lead cutting-edge research in wildfire ecology, with particular focus on quantifying, modeling, and predicting the consequences of human-started wildfires to the vulnerability of communities throughout the United States. I work at multiple scales, across disciplines, and with an international community of scientists. 
@@ -31,16 +32,27 @@ I am a geospatial scientist and ecologist seeking a research position in a dynam
 **Applications**: RStudio, Jupyter Notebooks, Amazon Web Services (S3, EC2), ArcGIS Platform, QGis, IDRISI/Terrset, Adobe CS6 Illustrator
 
 # Recent Professional Background
-**Postdoctoral Research Fellow** \hfill 2016--present
+**Environmental Data Scientist** \hfill Oct 2019 -- Present
+
+*National Ecological Observation Network, Battelle, Boulder, CO*
+
+- -Developed reproducible, automated workflows to generate monthly metric reports using both internal (i.e., HA Proxy logs) and external API (i.e., Google Analytics, auth0, Lime Survey) data tracking services.
+- -Developed R code to determine data availability for for over 200 data products across 81 different sites in the observatory.
+- -Wrote enhancements to the [neonUtilities R package](https://github.com/NEONScience/NEON-utilities)
+- -Built a number of Shiny Applications for internal use 
+- -A member of multiple internal working groups, such as Public Code Working Group, Science Code Working Group, and the Power Bi Working Group
+- -Co-chaired on the Data Standards Technical External Working Group
+
+**Postdoctoral Research Associate** \hfill Aug 2016-- Sept 2019
 
 *Earth Lab and the Cooperative Institute for Research in Environmental Sciences, University of Colorado at Boulder*
 
-- -Deployed geospatial, reproducible workflows in a salable, cloud-compute environment via Amazon Web Services (AWS) leveraging Docker and GitHub to build stable, collaborative work environments across platforms
-- -Wrote clean, efficient, reproducible code to analyze big, geospatial data
-- -Built-out and optimized statistical models using a variety of techniques, with focus on machine learning algorithms
-- -Mentored/managed undergraduate and graduate level interns and research assistants
-- -Authored and co-authored 7 peer-review publications 
-- -Authored and Co-authored over $10 million in research grant proposals
+- -Deployed geospatial, reproducible workflows in a salable, cloud-compute environment via Amazon Web Services (AWS) leveraging Docker and GitHub to build stable, collaborative work environments across platforms.
+- -Wrote clean, efficient, reproducible R code to analyze big geospatial data.
+- -Built out and optimizing statistical models using a variety of techniques, with focus on machine learning algorithms.
+- -Mentored/managed undergraduate and graduate level interns and research assistants.
+- -Authored and co-authored 6 peer-review publications with 3 more in review and 10 in progress.
+- -Authored and Co-authored over $15 million in research grant proposals.
 
 **Research Assistant** \hfill 2013-2016
 
@@ -73,9 +85,9 @@ I am a geospatial scientist and ecologist seeking a research position in a dynam
 *Clark University, Worcester, MA*, **M.S.**, GIS for Development and Environment, \hfill 2013 \
 *University of Maine, Orono, ME*, **B.S.**, Earth Science, \hfill 2009
 
-# Selected peer-reviewed Publications 
+# Selected Peer-reviewed Publications 
 
-**Mietkiewicz, N.**, J. K. Balch, T. Schoennagel, S. Leyk, L. St. Denis, B. Bradley. (under evaluation) *In the line of fire: Consequences of human-ignited wildfires to homes in the U.S. (1992-2015)*. Science Advances.
+**Mietkiewicz, N.**, J. K. Balch, T. Schoennagel, S. Leyk, L. St. Denis, B. Bradley. (Accepted) *In the line of fire: Consequences of human-ignited wildfires to homes in the U.S. (1992-2015)*. Fire.
 
 **Mietkiewicz, N.**, D. Kulakowski, and T. T. Veblen 2018. *Pre‐outbreak forest conditions mediate the effects of spruce beetle outbreaks on fuels in subalpine forests of Colorado*. Ecological Applications 28:457-472.
 
@@ -85,14 +97,16 @@ Schoennagel, T., J. K. Balch, H. Brenkert-Smith, P. E. Dennison, B. J. Harvey, M
 
 **Mietkiewicz, N.** and D. Kulakowski. 2016. *Relative importance of climate and mountain pine beetle outbreaks on the occurrence of large wildfires in the western US*. Ecological Applications:10.1002/eap.1400.
 
-# Selected Outreach, Synergistic Activities, and Professional Development
+# Selected Recent Outreach, Synergistic Activities, and Professional Development 
 
-2018 **Invite Participant** in the Environmental Extremes CodeFest, Univeristy of Colorado, Boulder, CO.
+2020 **Participant** at the Ecological Forecasting Initiative: Coordinating the NEON-enabled forecasting challenge workshop, virtual.
 
-2017 **Professional Presentation** at the Fire Prediction Across Scales Conference, Columbia University, New York City, NY, USA. entitled: *Drivers of historic and future wildfire occurrence across the United States: the relative contribution of human ignitions vs climate to fire size and probability*.
+2019 **Invited Participant** at the USDA Forest Service Stakeholder Workshop: Urban and Wildland-Urban Interface Forests Under Changing Conditions, Denver, CO.
 
-2017 **Invited Speaker** at the Wildfire Information Development Workshop, Boulder, CO, USA. Entitled: Human-ignited fires at the wildland-urban interface: case study for using ICS-209s.  
+2019 **Invited Participant** at the USGS North Central Climate Adaptation Science Center Open House, Boulder, CO.
 
-2017 **Participant** at the NASA Wildland Fire Applications 2017 Team Meeting, University of Colorado, Boulder, CO.
+2019 **Invited Speaker** at a Global WUI Working Group at the International Association of Wildland Fire 6th Fire Behavior and Fuels Conference, Marseille, France.
 
-2017 **Invited Speaker** at the Earth Science & Observation Center Colloquium, University of Colorado, Boulder, CO. Entitled: Earth Lab: Accelerating discovery with advanced earth analytics.
+2019 **Participant** at the NSF INCLUDES Diversity and Inclusion workshop, Boulder, CO.
+
+2017 **Professional Presentation** at the Fire Prediction Across Scales Conference, Columbia University, New York City, NY, USA.
